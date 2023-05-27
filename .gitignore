@@ -21,3 +21,18 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Compiled output
+/dist
+
+
+# Cache and log files
+/.cache
+/.eslintcache
+/*.log
+# Editor files
+/.vscode
+/.idea
+
+# Windows thumbnail cache
+/Thumbs.db

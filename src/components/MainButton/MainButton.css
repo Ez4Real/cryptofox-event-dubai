@@ -1,0 +1,22 @@
+.mainButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid white;
+    width: 197px;
+    height: 44px;
+    background: black;
+    color: white;
+    font-size: 20px;
+    font-family: 'Rubik';
+    font-weight: normal;
+}
+
+.mainButton:hover {
+    border: none;
+    background: white;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,42 @@
+.info-section {
+    width: 420px;
+    margin: 9em;
+}
+
+.infoTextContainer {
+    margin-left: 3px;
+}
+
+.infoDate {
+    text-align: right;
+    margin-right: 2em;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.infoCryptName {
+    font-size: 42px;
+    line-height: 0px;
+}
+
+.infoPlace {
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.infoContent {
+    padding: 0 0 0 0;
+
+    /* main */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Adjust the gap as needed */
+}
