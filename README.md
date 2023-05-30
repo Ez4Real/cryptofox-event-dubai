@@ -3,6 +3,9 @@ Today, UAE, specifically Dubai is gearing up to become a global crypto hub. Thus
 ## Date 
 July 31, 2023 at 6:30 pm. place - Dubai, ATLANTIS, THE PALM. 
 
+# Figma Design
+![Alt text](/figma-design.png?raw=true "Figma Design")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

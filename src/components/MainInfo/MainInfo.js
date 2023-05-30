@@ -13,7 +13,6 @@ export const MainInfo = ({ text }) => (
           </p>
         </div>
         <div className={'buttonContainer'}>
-            <MainButton text='Become Sponsor' />
             <MainButton text='Get Tickets' />
         </div>
 

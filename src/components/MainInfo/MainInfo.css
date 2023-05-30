@@ -36,7 +36,4 @@
 
 .buttonContainer {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px; /* Adjust the gap as needed */
 }
